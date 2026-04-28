@@ -19,7 +19,7 @@ After a decade as a marketer at multiple early-stage startups, I'm now expanding
 
 ## 🎓 What I'm Learning at UCC
 
-I'm currently studying programming and web development as part of my Business Information Systems degree. Check out my coursework in my [ucc_programming repository](https://github.com/meetdanielme/ucc_programming):
+I'm currently studying programming and web development as part of my Business Information Systems degree. 
 
 ## 🛠️ Skills & Certifications
 
@@ -32,8 +32,9 @@ I'm currently studying programming and web development as part of my Business In
 
 - **Email:** [hey@meetdaniel.me](mailto:hey@meetdaniel.me)
 - **Website:** [meetdaniel.me](https://meetdaniel.me/)
-- **LinkedIn:** [meetdanielme](https://www.linkedin.com/in/meetdanielme/)
-- **Bluesky:** [meetdaniel.me](https://bsky.app/profile/meetdaniel.me)
+- **LinkedIn:** [/in/meetdanielme](https://www.linkedin.com/in/meetdanielme/)
+- **Twitter:** [@meetdanielme](https://x.com/meetdanielme)
+- **Bluesky:** [@meetdaniel.me](https://bsky.app/profile/meetdaniel.me)
 - **Threads:** [@meetdaniel.me](https://www.threads.net/@meetdaniel.me)
 
 ## 🎯 Currently Interested In
