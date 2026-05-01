@@ -23,10 +23,10 @@ I'm currently studying programming and web development as part of my Business In
 
 Example work:
 
-- [**Budget tracker (Python)**](UCC-IS1110-Budget-Tracker)
-- [**CV website (HTML/CSS/JavaScript)**](UCC-IS1113-CV-Website)
-- [**Web consulting mock (HTML/CSS/JavaScript/PHP)**](UCC-IS1113-Web-Consulting-Mock)
-- [**Inventory manager (Python)**](UCC-IS1111-Inventory-Manager)
+- [Budget tracker (Python)](UCC-IS1110-Budget-Tracker)
+- [CV website (HTML/CSS/JavaScript)](UCC-IS1113-CV-Website)
+- [Web consulting mock (HTML/CSS/JavaScript/PHP)](UCC-IS1113-Web-Consulting-Mock)
+- [Inventory manager (Python)](UCC-IS1111-Inventory-Manager)
 
 ## 🛠️ Skills & Certifications
 
