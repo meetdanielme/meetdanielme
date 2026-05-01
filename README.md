@@ -1,18 +1,18 @@
 # Hi, I'm Daniel 👋
 
-I'm a **Business Information Systems student** at [University College Cork](https://www.ucc.ie/) and a **former startup marketer** with 10 years of experience bridging strategy, systems, and user n[...]
+I'm a **Business Information Systems student** at [University College Cork](https://www.ucc.ie/) and a **former startup marketer** with 10 years of experience bridging strategy, systems, and user needs.
 
-Originally from Warsaw, Poland, I was based in Berlin, Germany between 2018 and 2025, and I'm now studying in Cork, Ireland. I explore how technology can enhance creativity, productivity, and wellb[...]
+Originally from Warsaw, Poland, I was based in Berlin, Germany between 2018 and 2025, and I'm now studying in Cork, Ireland. I explore how technology can enhance creativity, productivity, and wellbeing while managing ADHD in a distraction-filled world.
 
 ## 🚀 About Me
 
-After a decade as a marketer at multiple early-stage startups, I'm now expanding my technical toolkit through a BSc in Business Information Systems. I'm combining hands-on startup experience with f[...]
+After a decade as a marketer at multiple early-stage startups, I'm now expanding my technical toolkit through a BSc in Business Information Systems. I'm combining hands-on startup experience with formal training in programming, databases, analytics, and systems thinking.
 
 **My long-term vision:** Build products and systems that create real value without relying on distraction or manipulation.
 
 ## 💼 Professional Experience
 
-- **Senior Marketing Manager** at [Ready Player Me](https://readyplayer.me/) — Developed marketing strategy, grew customer base, managed social media, content marketing, SEO, and built a develop[...]
+- **Senior Marketing Manager** at [Ready Player Me](https://readyplayer.me/) — Developed marketing strategy, grew customer base, managed social media, content marketing, SEO, and built a developer community
 - **Digital Marketing Specialist** at ACELR8 — Developed marketing strategy, grew LinkedIn followers 10x, managed social media, created content, and hosted events
 - **Content & Community Manager** at Phase Software — Developed product marketing strategy, built Slack community, organized events, and managed social media
 - **Social Media Specialist** at Daftcode — Developed and executed marketing strategies for five ventures, including social media and paid campaigns
@@ -46,4 +46,4 @@ Example work:
 
 ## 🎯 Currently Interested In
 
-Roles that combine strategy, user insights, and data — particularly in product management, UX research, or business analytics. I'm driven by thoughtful, cross-disciplinary work that bridges busi[...]
+Roles that combine strategy, user insights, and data — particularly in product management, UX research, or business analytics. I'm driven by thoughtful, cross-disciplinary work that bridges business and technology.
