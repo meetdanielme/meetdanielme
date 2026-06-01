@@ -12,6 +12,7 @@ After a decade as a marketer at multiple early-stage startups, I'm now expanding
 
 ## 💼 Professional Experience
 
+- **Marketing Specialist** at [Zartis](https://www.zartis.com)
 - **Senior Marketing Manager** at [Ready Player Me](https://readyplayer.me/) — Developed marketing strategy, grew customer base, managed social media, content marketing, SEO, and built a developer community
 - **Digital Marketing Specialist** at ACELR8 — Developed marketing strategy, grew LinkedIn followers 10x, managed social media, created content, and hosted events
 - **Content & Community Manager** at Phase Software — Developed product marketing strategy, built Slack community, organized events, and managed social media
